@@ -1,5 +1,3 @@
-//Samuel Han
-//samuel.han@stonybrook.edu
 public class TicTacToe {
 
     // The number of empty spaces in the board.
