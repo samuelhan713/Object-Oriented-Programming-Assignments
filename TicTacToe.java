@@ -103,7 +103,7 @@ public class TicTacToe {
     // Post: Stores the specified mark in the specified
     //       square of the board
     public static void move (int square, char mark) {
-        if (isSquareEmpty(square)) { //Wait is this line even necessary?
+        if (isSquareEmpty(square)) { 
             spacesLeft = spacesLeft - 1;
         }
 
