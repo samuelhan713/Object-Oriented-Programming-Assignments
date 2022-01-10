@@ -6,7 +6,6 @@ public class UseRecursion {
         System.out.println("\nPart 1:");
         String s1 = "Hello", s2 = "Java";
         String[] strs = Recursion.mobius(s1, s2);
-        // uncomment the following code once you have implemented mobius
         for (String s : strs)
             System.out.println(s);
 
